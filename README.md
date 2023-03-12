@@ -53,4 +53,4 @@ just add the following lines to your config
 
 
 ## Todo
-### Add prompt option in the config.js accoring to different personalities
+### Add prompt option in the config.js according to different personalities

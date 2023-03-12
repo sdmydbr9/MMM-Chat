@@ -14,3 +14,13 @@ You will need  google service account credentials and a billing account, go thro
 7. Select JSON as the key type and click Create.
 8. The JSON key file will be downloaded to your computer. Note the file path and name, as you will need to specify this in your Python code transcript.py.
 9. Or you can just rename it to credentials.json and place the credentials to the MMM-Chat directory.
+
+
+
+just add the following lines to your config 
+
+
+            {
+        module: "MMM-Chat",
+        config: {}
+        },

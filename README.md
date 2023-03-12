@@ -1,9 +1,15 @@
 # MMM-Chat
 Magicmirror module to chat with chat gpt 
+
+This module assumes that your default installation location is /home/pi/MagicMirror. 
+
+
 Installation instruction 
-git clone https://github.com/sdmydbr9/MMM-Chat.git
-cd MMM-Chat
-pip3 install -r requirements.txt
+
+
+1. git clone https://github.com/sdmydbr9/MMM-Chat.git
+2. cd MMM-Chat
+3. pip3 install -r requirements.txt
 
 Add the credentials to the MMM-Chat directory
 

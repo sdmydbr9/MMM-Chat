@@ -29,6 +29,14 @@ You will need  google service account credentials and a billing account, go thro
 8. The JSON key file will be downloaded to your computer. Note the file path and name, as you will need to specify this in your Python code transcript.py.
 9. Or you can just rename it to credentials.json and place the credentials to the MMM-Chat directory.
 
+## to test if your set up was successful just run 
+
+  
+```
+python3 transcript.py
+  
+```
+And speak in the microphone, it will output with the transcription of your spoken words. 
 
 
 just add the following lines to your config 

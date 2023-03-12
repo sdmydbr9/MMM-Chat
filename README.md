@@ -1,5 +1,13 @@
 # MMM-Chat
 Magicmirror module to chat with chat gpt 
+Installation instruction 
+git clone https://github.com/sdmydbr9/MMM-Chat.git
+cd MMM-Chat
+pip3 install -r requirements.txt
+
+Add the credentials to the MMM-Chat directory
+
+## I have provided another script to use with the whisper api, but while testing didnt really provide as much accuracy as the google STT. Feel free to use the whisper.py with little modification to the MMM-Chat.js
 
 
 You will need  google service account credentials and a billing account, go through the pricing, they offer a free quota and if you stay within that you will not be charged

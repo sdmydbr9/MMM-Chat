@@ -46,3 +46,11 @@ just add the following lines to your config
         module: "MMM-Chat",
         config: {}
         },
+
+
+
+
+
+
+## Todo
+### Add prompt option in the config.js accoring to different personalities

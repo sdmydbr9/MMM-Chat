@@ -3,7 +3,7 @@ Magicmirror module to chat with chat gpt
 
 ## This module assumes that your default installation location is /home/pi/MagicMirror. If youre using other locations, please update the node_helper.js with your correct directory.
 
-
+## You can chnage the personality of the AI by editing line 26 in MMM-Chat.js. by default it is set to drunk AI
 Installation instruction 
 
 

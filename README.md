@@ -1,7 +1,7 @@
 # MMM-Chat
 Magicmirror module to chat with chat gpt 
 
-This module assumes that your default installation location is /home/pi/MagicMirror. 
+## This module assumes that your default installation location is /home/pi/MagicMirror. If youre using other locations, please update the node_helper.js with your correct directory.
 
 
 Installation instruction 

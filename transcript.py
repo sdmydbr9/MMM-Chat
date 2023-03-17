@@ -29,10 +29,11 @@ CHUNK = 1024
 FORMAT = 'wav'
 CHANNELS = 2
 RATE =48000
-RECORD_SECONDS = 4
+RECORD_SECONDS = 6
 WAVE_OUTPUT_FILENAME = "output.wav"
 
 # start recording
+print("say something...")
 frames = sd.rec(int(RATE * RECORD_SECONDS), samplerate=RATE, channels=CHANNELS, blocking=True)
 
 # save recorded audio to file
